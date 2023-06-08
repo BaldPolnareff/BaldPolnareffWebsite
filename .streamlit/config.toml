@@ -2,3 +2,6 @@
 base="dark"
 primaryColor="#9631ff"
 font="sans serif"
+
+[browser]
+gatherUsageStats = false
