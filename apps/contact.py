@@ -26,7 +26,7 @@ def app():
         """
         You can find the source code for this streamlit template on my [GitHub repo](https://www.github.com/BaldPolnareff/BaldPolnareffWebsite).
         
-        Streamlit is an open-source app framweork typically used for data science dashboards and machine learning web applications, 
+        Streamlit is an open-source app framework typically used for data science dashboards and machine learning web applications, 
         but I wanted to showcase that it can be a flexible tool for creating a personal website, if you already know 
         Python and some basic Markdown and HTML.
 
