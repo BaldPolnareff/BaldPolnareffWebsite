@@ -7,9 +7,9 @@ from utils import *
 
 def app():
     st.markdown("# Education")
-    st.markdown("+ **MSc in Aerospace Engineering** (2019-2022) - \n"
+    st.markdown("+ **MSc in Aerospace Engineering** (2022) - \n"
                 "Polytechnic University of Turin, Italy \n")
-    st.markdown("+ **BSc in Aerospace Engineering** (2014-2019) - \n"
+    st.markdown("+ **BSc in Aerospace Engineering** (2019) - \n"
                 "Polytechnic University of Turin, Italy \n")
 
     st.markdown("### Certifications")
@@ -35,7 +35,7 @@ def app():
 
     st.markdown("# Computer Skills")
     st.markdown("### Development")
-    st.markdown("+ **Programming Languages:** Python, GLSL, Matlab, GNU/Octave, Scheme, Racket, SQL, C \n")
+    st.markdown("+ **Programming Languages:** Python, Typescript, Javascript, GLSL, Matlab, GNU/Octave, Scheme, Racket, SQL, C \n")
     st.markdown("+ **Markup Languages:** HTML, CSS, Markdown, LaTeX \n")
     st.markdown("+ **Operating Systems:** Linux, MacOS, Windows, FreeBSD \n")
     st.markdown("+ **Platforms and Workflows:** Git, GitHub, Jupyter Notebook, Streamlit, Vscode, Kubernetes")
@@ -43,7 +43,7 @@ def app():
     st.markdown("+ **Machine Learning Frameworks:** Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost \n")
     st.markdown("### Graphics and Multimedia")
     st.markdown("+ **3D Graphics:** Blender")
-    st.markdown("+ **CAD:** Solidworks, FreeCAD")
+    st.markdown("+ **CAD:** Solidworks, FreeCAD, Plasticity")
     st.markdown("+ **Raster Graphics:** GIMP, Krita, Affinity Photo, Adobe Photoshop, Pixelmator Pro, ImageMagick")
     st.markdown("+ **Vector Graphics:** Inkscape, Affinity Designer, Adobe Illustrator")
     st.markdown("+ **Video Editing:** DaVinci Resolve, Kdenlive, ffmpeg")
