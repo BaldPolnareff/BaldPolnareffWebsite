@@ -41,6 +41,7 @@ def app():
     st.markdown("+ **Platforms and Workflows:** Git, GitHub, Jupyter Notebook, Streamlit, Vscode, Kubernetes")
     st.markdown("+ **Data Science Libraries:** Pandas, Numpy, Matplotlib, Seaborn, Plotly, Scipy \n")
     st.markdown("+ **Machine Learning Frameworks:** Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost \n")
+    st.markdown("+ **Web Development Frameworks:** Django, Vue.js \n")
     st.markdown("### Graphics and Multimedia")
     st.markdown("+ **3D Graphics:** Blender")
     st.markdown("+ **CAD:** Solidworks, FreeCAD, Plasticity")
